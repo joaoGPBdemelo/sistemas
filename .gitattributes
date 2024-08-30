@@ -1,1 +1,2 @@
 ML/archive/mnist_train.csv filter=lfs diff=lfs merge=lfs -text
+ML/archive/mnist_test.csv filter=lfs diff=lfs merge=lfs -text
